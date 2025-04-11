@@ -9,7 +9,11 @@ Added responsive Images using <picture> tag with srcset and media attributes to 
 
 
 # Images 
-All images used are free stock images from Adobe Stock - Stock.Adobe.com 
+All images used are free stock images from Adobe Stock - https://Stock.Adobe.com/ 
 
 # Icons 
-All icons were saved from the icon site -Freepik.com
+All icons were saved from the icon site: https://www.Freepik.com
+https://th.bing.com
+https://1.bp.blogspot.com/
+https://vecteezy.com/
+https://vectorstock.com/
